@@ -25,6 +25,6 @@ The entire project is developed in Google Colaboratory (Colab), ensuring ease of
 4. Experiment with hyperparameters or model architecture to enhance performance.
 
 ## Contributors
-- [Your Name]
+- [[muhamad syafe'ie](https://github.com/zhavei)]
 
 Feel free to contribute, report issues, or suggest improvements. Happy coding!
